@@ -3,7 +3,7 @@
 #### variable type casting
 
 ```javascript
-let num:  = 1;
+let num:number = 1;
 ```
 
 #### function typecasting
