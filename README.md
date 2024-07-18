@@ -1,6 +1,6 @@
 ## TypeScript
 
-#### variable  casting
+#### variable type casting
 
 ```javascript
 let num:number = 1;
