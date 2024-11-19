@@ -1,4 +1,4 @@
-let num:  = 1;
+let num: number = 1;
 
 function calculate(num1: number, num2: number):number  {
   return num1 + num2;
